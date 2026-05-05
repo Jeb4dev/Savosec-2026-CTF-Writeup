@@ -18,6 +18,7 @@
 * [Le Third warm-up](<challenges/Crypto/le-third-warm-up/>)
 * [May the fourth be with you](<challenges/Crypto/may-the-fourth-be-with-you/>)
 * [It's five o'clock](<challenges/Crypto/its-five-oclock/>)
+* [Why is six afraid of seven?](<challenges/Crypto/why-is-six-afraid-of-seven/>)
 * [secretMessage](<challenges/Crypto/secretmessage/>)
 
 ### pwn
