@@ -19,6 +19,8 @@
 * [May the fourth be with you](<challenges/Crypto/may-the-fourth-be-with-you/>)
 * [It's five o'clock](<challenges/Crypto/its-five-oclock/>)
 * [Why is six afraid of seven?](<challenges/Crypto/why-is-six-afraid-of-seven/>)
+* [Is seven your lucky number?](<challenges/Crypto/is-seven-your-lucky-number/>)
+* [Have you even thought, that 8 is just the infinity standing?](<challenges/Crypto/have-you-even-thought-that-8-is-just-the-infinity-standing/>)
 * [secretMessage](<challenges/Crypto/secretmessage/>)
 
 ### pwn
