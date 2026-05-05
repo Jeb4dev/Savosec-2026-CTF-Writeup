@@ -15,6 +15,9 @@
 * [XORagami](<challenges/Crypto/xoragami/>)
 * [Warm-up nro 1](<challenges/Crypto/warm-up-nro-1/>)
 * [Second warm-up](<challenges/Crypto/second-warm-up/>)
+* [Le Third warm-up](<challenges/Crypto/le-third-warm-up/>)
+* [May the fourth be with you](<challenges/Crypto/may-the-fourth-be-with-you/>)
+* [It's five o'clock](<challenges/Crypto/its-five-oclock/>)
 * [secretMessage](<challenges/Crypto/secretmessage/>)
 
 ### pwn
