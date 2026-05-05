@@ -14,6 +14,7 @@
 
 * [XORagami](<challenges/Crypto/xoragami/>)
 * [Warm-up nro 1](<challenges/Crypto/warm-up-nro-1/>)
+* [Second warm-up](<challenges/Crypto/second-warm-up/>)
 * [secretMessage](<challenges/Crypto/secretmessage/>)
 
 ### pwn
