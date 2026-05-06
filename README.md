@@ -23,6 +23,13 @@
 * [Have you even thought, that 8 is just the infinity standing?](<challenges/Crypto/have-you-even-thought-that-8-is-just-the-infinity-standing/>)
 * [secretMessage](<challenges/Crypto/secretmessage/>)
 
+### OSINT
+
+* [A bird flew away](<challenges/OSINT/a-bird-flew-away/>)
+* [Dude, I love towers! Part 1](<challenges/OSINT/dude-i-love-towers-part-1/>)
+* [Dude, I love towers! Part 2](<challenges/OSINT/dude-i-love-towers-part-2/>)
+* [Ok... No more towers...](<challenges/OSINT/ok-no-more-towers/>)
+
 ### pwn
 
 * [Quick math!](<challenges/pwn/quick-math/>)
@@ -39,13 +46,11 @@
 * [I like pickles in pieces.](<challenges/Web/i-like-pickles-in-pieces/>)
 * [IT Support](<challenges/Web/it-support/>)
 * [Auth bypass 1](<challenges/Web/auth-bypass-1/>)
-
-### OSINT
-
-* [A bird flew away](<challenges/OSINT/a-bird-flew-away/>)
-* [Dude, I love towers! Part 1](<challenges/OSINT/dude-i-love-towers-part-1/>)
-* [Dude, I love towers! Part 2](<challenges/OSINT/dude-i-love-towers-part-2/>)
-* [Ok... No more towers...](<challenges/OSINT/ok-no-more-towers/>)
+* [Auth bypass 2](<challenges/Web/auth-bypass-2/>)
+* [idor 1](<challenges/Web/idor-1/>)
+* [idor 2](<challenges/Web/idor-2/>)
+* [Content Discovery 1](<challenges/Web/content-discovery-1/>)
+* [Content Discovery 2](<challenges/Web/content-discovery-2/>)
 
 ### Stegano
 
