@@ -1,0 +1,1049 @@
+C:\Users\jespe\AppData\Local\Programs\Python\Python313\python.exe C:\Users\jespe\PycharmProjects\2026-savosec\challenges\Web\idor-2\brute.py
+User ID 102 exists:
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Aaron Keller — Acme People</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=DM+Serif+Display&display=swap" rel="stylesheet">
+  <style>
+:root{--bg:#fbfaf7;--ink:#1a1816;--paper:#fff;--line:#e5e2dc;--accent:#c4552b;--muted:#7a736b}
+*{box-sizing:border-box}html,body{margin:0;padding:0}
+body{font-family:"DM Sans",system-ui,sans-serif;background:var(--bg);color:var(--ink);line-height:1.55}
+header{border-bottom:1px solid var(--line);background:var(--paper)}
+.top{max-width:1040px;margin:0 auto;padding:14px 24px;display:flex;align-items:center;justify-content:space-between;font-size:13px}
+.logo{font-family:"DM Serif Display",serif;font-size:22px}
+.logo span{color:var(--accent)}
+main{max-width:1040px;margin:0 auto;padding:48px 24px 80px}
+h1{font-family:"DM Serif Display",serif;font-weight:400;font-size:36px;margin:0 0 8px}
+.lede{color:#3a342e;font-size:16px}
+.btn{background:var(--ink);color:#fff;text-decoration:none;padding:9px 14px;font-size:13px;border-radius:2px;display:inline-block}
+.btn:hover{background:var(--accent)}
+.back{font-size:13px;color:var(--muted);text-decoration:none}
+.back:hover{color:var(--accent)}
+footer{border-top:1px solid var(--line);background:var(--paper);margin-top:48px}
+footer .inner{max-width:1040px;margin:0 auto;padding:16px 24px;font-size:12px;color:var(--muted)}
+
+    .profile{background:var(--paper);border:1px solid var(--line);padding:32px;margin-top:8px;display:grid;grid-template-columns:100px 1fr;gap:28px;align-items:start}
+    .big-avatar{width:100px;height:100px;border-radius:50%;background:linear-gradient(135deg,#c4552b,#f5b97e);color:#fff;display:grid;place-items:center;font-family:"DM Serif Display",serif;font-size:42px;font-weight:400}
+    .name{font-family:"DM Serif Display",serif;font-size:32px;margin:0 0 4px;font-weight:400}
+    .handle{color:var(--muted);font-size:13px;margin:0 0 20px}
+    dl{margin:0;display:grid;grid-template-columns:120px 1fr;gap:10px 24px}
+    dt{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--muted);padding-top:2px}
+    dd{margin:0;font-size:14px;color:var(--ink);word-break:break-word}
+  </style>
+</head>
+<body>
+  <header><div class="top"><div class="logo">Acme <span>People</span></div><span style="color:var(--muted)">Signed in</span></div></header>
+  <main>
+    <a class="back" href="../">&larr; Back</a>
+    <div class="profile" style="margin-top:16px">
+      <div class="big-avatar">A</div>
+      <div>
+        <h1 class="name">Aaron Keller</h1>
+        <p class="handle">Employee #102</p>
+        <dl>
+          <dt>Name</dt><dd>Aaron Keller</dd>
+          <dt>Email</dt><dd>aaron.keller@acme.test</dd>
+          <dt>Note</dt><dd>Out Fri — dentist</dd>
+        </dl>
+      </div>
+    </div>
+  </main>
+  <footer><div class="inner">Acme People</div></footer>
+</body>
+</html>
+User ID 118 exists:
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Priya Ramanathan — Acme People</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=DM+Serif+Display&display=swap" rel="stylesheet">
+  <style>
+:root{--bg:#fbfaf7;--ink:#1a1816;--paper:#fff;--line:#e5e2dc;--accent:#c4552b;--muted:#7a736b}
+*{box-sizing:border-box}html,body{margin:0;padding:0}
+body{font-family:"DM Sans",system-ui,sans-serif;background:var(--bg);color:var(--ink);line-height:1.55}
+header{border-bottom:1px solid var(--line);background:var(--paper)}
+.top{max-width:1040px;margin:0 auto;padding:14px 24px;display:flex;align-items:center;justify-content:space-between;font-size:13px}
+.logo{font-family:"DM Serif Display",serif;font-size:22px}
+.logo span{color:var(--accent)}
+main{max-width:1040px;margin:0 auto;padding:48px 24px 80px}
+h1{font-family:"DM Serif Display",serif;font-weight:400;font-size:36px;margin:0 0 8px}
+.lede{color:#3a342e;font-size:16px}
+.btn{background:var(--ink);color:#fff;text-decoration:none;padding:9px 14px;font-size:13px;border-radius:2px;display:inline-block}
+.btn:hover{background:var(--accent)}
+.back{font-size:13px;color:var(--muted);text-decoration:none}
+.back:hover{color:var(--accent)}
+footer{border-top:1px solid var(--line);background:var(--paper);margin-top:48px}
+footer .inner{max-width:1040px;margin:0 auto;padding:16px 24px;font-size:12px;color:var(--muted)}
+
+    .profile{background:var(--paper);border:1px solid var(--line);padding:32px;margin-top:8px;display:grid;grid-template-columns:100px 1fr;gap:28px;align-items:start}
+    .big-avatar{width:100px;height:100px;border-radius:50%;background:linear-gradient(135deg,#c4552b,#f5b97e);color:#fff;display:grid;place-items:center;font-family:"DM Serif Display",serif;font-size:42px;font-weight:400}
+    .name{font-family:"DM Serif Display",serif;font-size:32px;margin:0 0 4px;font-weight:400}
+    .handle{color:var(--muted);font-size:13px;margin:0 0 20px}
+    dl{margin:0;display:grid;grid-template-columns:120px 1fr;gap:10px 24px}
+    dt{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--muted);padding-top:2px}
+    dd{margin:0;font-size:14px;color:var(--ink);word-break:break-word}
+  </style>
+</head>
+<body>
+  <header><div class="top"><div class="logo">Acme <span>People</span></div><span style="color:var(--muted)">Signed in</span></div></header>
+  <main>
+    <a class="back" href="../">&larr; Back</a>
+    <div class="profile" style="margin-top:16px">
+      <div class="big-avatar">P</div>
+      <div>
+        <h1 class="name">Priya Ramanathan</h1>
+        <p class="handle">Employee #118</p>
+        <dl>
+          <dt>Name</dt><dd>Priya Ramanathan</dd>
+          <dt>Email</dt><dd>priya.r@acme.test</dd>
+          <dt>Note</dt><dd>Parental leave until Q3</dd>
+        </dl>
+      </div>
+    </div>
+  </main>
+  <footer><div class="inner">Acme People</div></footer>
+</body>
+</html>
+User ID 131 exists:
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Marcus Olusanya — Acme People</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=DM+Serif+Display&display=swap" rel="stylesheet">
+  <style>
+:root{--bg:#fbfaf7;--ink:#1a1816;--paper:#fff;--line:#e5e2dc;--accent:#c4552b;--muted:#7a736b}
+*{box-sizing:border-box}html,body{margin:0;padding:0}
+body{font-family:"DM Sans",system-ui,sans-serif;background:var(--bg);color:var(--ink);line-height:1.55}
+header{border-bottom:1px solid var(--line);background:var(--paper)}
+.top{max-width:1040px;margin:0 auto;padding:14px 24px;display:flex;align-items:center;justify-content:space-between;font-size:13px}
+.logo{font-family:"DM Serif Display",serif;font-size:22px}
+.logo span{color:var(--accent)}
+main{max-width:1040px;margin:0 auto;padding:48px 24px 80px}
+h1{font-family:"DM Serif Display",serif;font-weight:400;font-size:36px;margin:0 0 8px}
+.lede{color:#3a342e;font-size:16px}
+.btn{background:var(--ink);color:#fff;text-decoration:none;padding:9px 14px;font-size:13px;border-radius:2px;display:inline-block}
+.btn:hover{background:var(--accent)}
+.back{font-size:13px;color:var(--muted);text-decoration:none}
+.back:hover{color:var(--accent)}
+footer{border-top:1px solid var(--line);background:var(--paper);margin-top:48px}
+footer .inner{max-width:1040px;margin:0 auto;padding:16px 24px;font-size:12px;color:var(--muted)}
+
+    .profile{background:var(--paper);border:1px solid var(--line);padding:32px;margin-top:8px;display:grid;grid-template-columns:100px 1fr;gap:28px;align-items:start}
+    .big-avatar{width:100px;height:100px;border-radius:50%;background:linear-gradient(135deg,#c4552b,#f5b97e);color:#fff;display:grid;place-items:center;font-family:"DM Serif Display",serif;font-size:42px;font-weight:400}
+    .name{font-family:"DM Serif Display",serif;font-size:32px;margin:0 0 4px;font-weight:400}
+    .handle{color:var(--muted);font-size:13px;margin:0 0 20px}
+    dl{margin:0;display:grid;grid-template-columns:120px 1fr;gap:10px 24px}
+    dt{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--muted);padding-top:2px}
+    dd{margin:0;font-size:14px;color:var(--ink);word-break:break-word}
+  </style>
+</head>
+<body>
+  <header><div class="top"><div class="logo">Acme <span>People</span></div><span style="color:var(--muted)">Signed in</span></div></header>
+  <main>
+    <a class="back" href="../">&larr; Back</a>
+    <div class="profile" style="margin-top:16px">
+      <div class="big-avatar">M</div>
+      <div>
+        <h1 class="name">Marcus Olusanya</h1>
+        <p class="handle">Employee #131</p>
+        <dl>
+          <dt>Name</dt><dd>Marcus Olusanya</dd>
+          <dt>Email</dt><dd>molusanya@acme.test</dd>
+          <dt>Note</dt><dd>Laptop refresh pending</dd>
+        </dl>
+      </div>
+    </div>
+  </main>
+  <footer><div class="inner">Acme People</div></footer>
+</body>
+</html>
+User ID 147 exists:
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Liu Chen — Acme People</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=DM+Serif+Display&display=swap" rel="stylesheet">
+  <style>
+:root{--bg:#fbfaf7;--ink:#1a1816;--paper:#fff;--line:#e5e2dc;--accent:#c4552b;--muted:#7a736b}
+*{box-sizing:border-box}html,body{margin:0;padding:0}
+body{font-family:"DM Sans",system-ui,sans-serif;background:var(--bg);color:var(--ink);line-height:1.55}
+header{border-bottom:1px solid var(--line);background:var(--paper)}
+.top{max-width:1040px;margin:0 auto;padding:14px 24px;display:flex;align-items:center;justify-content:space-between;font-size:13px}
+.logo{font-family:"DM Serif Display",serif;font-size:22px}
+.logo span{color:var(--accent)}
+main{max-width:1040px;margin:0 auto;padding:48px 24px 80px}
+h1{font-family:"DM Serif Display",serif;font-weight:400;font-size:36px;margin:0 0 8px}
+.lede{color:#3a342e;font-size:16px}
+.btn{background:var(--ink);color:#fff;text-decoration:none;padding:9px 14px;font-size:13px;border-radius:2px;display:inline-block}
+.btn:hover{background:var(--accent)}
+.back{font-size:13px;color:var(--muted);text-decoration:none}
+.back:hover{color:var(--accent)}
+footer{border-top:1px solid var(--line);background:var(--paper);margin-top:48px}
+footer .inner{max-width:1040px;margin:0 auto;padding:16px 24px;font-size:12px;color:var(--muted)}
+
+    .profile{background:var(--paper);border:1px solid var(--line);padding:32px;margin-top:8px;display:grid;grid-template-columns:100px 1fr;gap:28px;align-items:start}
+    .big-avatar{width:100px;height:100px;border-radius:50%;background:linear-gradient(135deg,#c4552b,#f5b97e);color:#fff;display:grid;place-items:center;font-family:"DM Serif Display",serif;font-size:42px;font-weight:400}
+    .name{font-family:"DM Serif Display",serif;font-size:32px;margin:0 0 4px;font-weight:400}
+    .handle{color:var(--muted);font-size:13px;margin:0 0 20px}
+    dl{margin:0;display:grid;grid-template-columns:120px 1fr;gap:10px 24px}
+    dt{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--muted);padding-top:2px}
+    dd{margin:0;font-size:14px;color:var(--ink);word-break:break-word}
+  </style>
+</head>
+<body>
+  <header><div class="top"><div class="logo">Acme <span>People</span></div><span style="color:var(--muted)">Signed in</span></div></header>
+  <main>
+    <a class="back" href="../">&larr; Back</a>
+    <div class="profile" style="margin-top:16px">
+      <div class="big-avatar">L</div>
+      <div>
+        <h1 class="name">Liu Chen</h1>
+        <p class="handle">Employee #147</p>
+        <dl>
+          <dt>Name</dt><dd>Liu Chen</dd>
+          <dt>Email</dt><dd>lchen@acme.test</dd>
+          <dt>Note</dt><dd>Moved to Tampere office</dd>
+        </dl>
+      </div>
+    </div>
+  </main>
+  <footer><div class="inner">Acme People</div></footer>
+</body>
+</html>
+User ID 162 exists:
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Sofia Ricci — Acme People</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=DM+Serif+Display&display=swap" rel="stylesheet">
+  <style>
+:root{--bg:#fbfaf7;--ink:#1a1816;--paper:#fff;--line:#e5e2dc;--accent:#c4552b;--muted:#7a736b}
+*{box-sizing:border-box}html,body{margin:0;padding:0}
+body{font-family:"DM Sans",system-ui,sans-serif;background:var(--bg);color:var(--ink);line-height:1.55}
+header{border-bottom:1px solid var(--line);background:var(--paper)}
+.top{max-width:1040px;margin:0 auto;padding:14px 24px;display:flex;align-items:center;justify-content:space-between;font-size:13px}
+.logo{font-family:"DM Serif Display",serif;font-size:22px}
+.logo span{color:var(--accent)}
+main{max-width:1040px;margin:0 auto;padding:48px 24px 80px}
+h1{font-family:"DM Serif Display",serif;font-weight:400;font-size:36px;margin:0 0 8px}
+.lede{color:#3a342e;font-size:16px}
+.btn{background:var(--ink);color:#fff;text-decoration:none;padding:9px 14px;font-size:13px;border-radius:2px;display:inline-block}
+.btn:hover{background:var(--accent)}
+.back{font-size:13px;color:var(--muted);text-decoration:none}
+.back:hover{color:var(--accent)}
+footer{border-top:1px solid var(--line);background:var(--paper);margin-top:48px}
+footer .inner{max-width:1040px;margin:0 auto;padding:16px 24px;font-size:12px;color:var(--muted)}
+
+    .profile{background:var(--paper);border:1px solid var(--line);padding:32px;margin-top:8px;display:grid;grid-template-columns:100px 1fr;gap:28px;align-items:start}
+    .big-avatar{width:100px;height:100px;border-radius:50%;background:linear-gradient(135deg,#c4552b,#f5b97e);color:#fff;display:grid;place-items:center;font-family:"DM Serif Display",serif;font-size:42px;font-weight:400}
+    .name{font-family:"DM Serif Display",serif;font-size:32px;margin:0 0 4px;font-weight:400}
+    .handle{color:var(--muted);font-size:13px;margin:0 0 20px}
+    dl{margin:0;display:grid;grid-template-columns:120px 1fr;gap:10px 24px}
+    dt{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--muted);padding-top:2px}
+    dd{margin:0;font-size:14px;color:var(--ink);word-break:break-word}
+  </style>
+</head>
+<body>
+  <header><div class="top"><div class="logo">Acme <span>People</span></div><span style="color:var(--muted)">Signed in</span></div></header>
+  <main>
+    <a class="back" href="../">&larr; Back</a>
+    <div class="profile" style="margin-top:16px">
+      <div class="big-avatar">S</div>
+      <div>
+        <h1 class="name">Sofia Ricci</h1>
+        <p class="handle">Employee #162</p>
+        <dl>
+          <dt>Name</dt><dd>Sofia Ricci</dd>
+          <dt>Email</dt><dd>sofia.ricci@acme.test</dd>
+          <dt>Note</dt><dd>Prefers Signal over email</dd>
+        </dl>
+      </div>
+    </div>
+  </main>
+  <footer><div class="inner">Acme People</div></footer>
+</body>
+</html>
+User ID 178 exists:
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Noah Abramowitz — Acme People</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=DM+Serif+Display&display=swap" rel="stylesheet">
+  <style>
+:root{--bg:#fbfaf7;--ink:#1a1816;--paper:#fff;--line:#e5e2dc;--accent:#c4552b;--muted:#7a736b}
+*{box-sizing:border-box}html,body{margin:0;padding:0}
+body{font-family:"DM Sans",system-ui,sans-serif;background:var(--bg);color:var(--ink);line-height:1.55}
+header{border-bottom:1px solid var(--line);background:var(--paper)}
+.top{max-width:1040px;margin:0 auto;padding:14px 24px;display:flex;align-items:center;justify-content:space-between;font-size:13px}
+.logo{font-family:"DM Serif Display",serif;font-size:22px}
+.logo span{color:var(--accent)}
+main{max-width:1040px;margin:0 auto;padding:48px 24px 80px}
+h1{font-family:"DM Serif Display",serif;font-weight:400;font-size:36px;margin:0 0 8px}
+.lede{color:#3a342e;font-size:16px}
+.btn{background:var(--ink);color:#fff;text-decoration:none;padding:9px 14px;font-size:13px;border-radius:2px;display:inline-block}
+.btn:hover{background:var(--accent)}
+.back{font-size:13px;color:var(--muted);text-decoration:none}
+.back:hover{color:var(--accent)}
+footer{border-top:1px solid var(--line);background:var(--paper);margin-top:48px}
+footer .inner{max-width:1040px;margin:0 auto;padding:16px 24px;font-size:12px;color:var(--muted)}
+
+    .profile{background:var(--paper);border:1px solid var(--line);padding:32px;margin-top:8px;display:grid;grid-template-columns:100px 1fr;gap:28px;align-items:start}
+    .big-avatar{width:100px;height:100px;border-radius:50%;background:linear-gradient(135deg,#c4552b,#f5b97e);color:#fff;display:grid;place-items:center;font-family:"DM Serif Display",serif;font-size:42px;font-weight:400}
+    .name{font-family:"DM Serif Display",serif;font-size:32px;margin:0 0 4px;font-weight:400}
+    .handle{color:var(--muted);font-size:13px;margin:0 0 20px}
+    dl{margin:0;display:grid;grid-template-columns:120px 1fr;gap:10px 24px}
+    dt{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--muted);padding-top:2px}
+    dd{margin:0;font-size:14px;color:var(--ink);word-break:break-word}
+  </style>
+</head>
+<body>
+  <header><div class="top"><div class="logo">Acme <span>People</span></div><span style="color:var(--muted)">Signed in</span></div></header>
+  <main>
+    <a class="back" href="../">&larr; Back</a>
+    <div class="profile" style="margin-top:16px">
+      <div class="big-avatar">N</div>
+      <div>
+        <h1 class="name">Noah Abramowitz</h1>
+        <p class="handle">Employee #178</p>
+        <dl>
+          <dt>Name</dt><dd>Noah Abramowitz</dd>
+          <dt>Email</dt><dd>noah.a@acme.test</dd>
+          <dt>Note</dt><dd>PTO 12.-16.5.</dd>
+        </dl>
+      </div>
+    </div>
+  </main>
+  <footer><div class="inner">Acme People</div></footer>
+</body>
+</html>
+User ID 193 exists:
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Yuki Tanaka — Acme People</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=DM+Serif+Display&display=swap" rel="stylesheet">
+  <style>
+:root{--bg:#fbfaf7;--ink:#1a1816;--paper:#fff;--line:#e5e2dc;--accent:#c4552b;--muted:#7a736b}
+*{box-sizing:border-box}html,body{margin:0;padding:0}
+body{font-family:"DM Sans",system-ui,sans-serif;background:var(--bg);color:var(--ink);line-height:1.55}
+header{border-bottom:1px solid var(--line);background:var(--paper)}
+.top{max-width:1040px;margin:0 auto;padding:14px 24px;display:flex;align-items:center;justify-content:space-between;font-size:13px}
+.logo{font-family:"DM Serif Display",serif;font-size:22px}
+.logo span{color:var(--accent)}
+main{max-width:1040px;margin:0 auto;padding:48px 24px 80px}
+h1{font-family:"DM Serif Display",serif;font-weight:400;font-size:36px;margin:0 0 8px}
+.lede{color:#3a342e;font-size:16px}
+.btn{background:var(--ink);color:#fff;text-decoration:none;padding:9px 14px;font-size:13px;border-radius:2px;display:inline-block}
+.btn:hover{background:var(--accent)}
+.back{font-size:13px;color:var(--muted);text-decoration:none}
+.back:hover{color:var(--accent)}
+footer{border-top:1px solid var(--line);background:var(--paper);margin-top:48px}
+footer .inner{max-width:1040px;margin:0 auto;padding:16px 24px;font-size:12px;color:var(--muted)}
+
+    .profile{background:var(--paper);border:1px solid var(--line);padding:32px;margin-top:8px;display:grid;grid-template-columns:100px 1fr;gap:28px;align-items:start}
+    .big-avatar{width:100px;height:100px;border-radius:50%;background:linear-gradient(135deg,#c4552b,#f5b97e);color:#fff;display:grid;place-items:center;font-family:"DM Serif Display",serif;font-size:42px;font-weight:400}
+    .name{font-family:"DM Serif Display",serif;font-size:32px;margin:0 0 4px;font-weight:400}
+    .handle{color:var(--muted);font-size:13px;margin:0 0 20px}
+    dl{margin:0;display:grid;grid-template-columns:120px 1fr;gap:10px 24px}
+    dt{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--muted);padding-top:2px}
+    dd{margin:0;font-size:14px;color:var(--ink);word-break:break-word}
+  </style>
+</head>
+<body>
+  <header><div class="top"><div class="logo">Acme <span>People</span></div><span style="color:var(--muted)">Signed in</span></div></header>
+  <main>
+    <a class="back" href="../">&larr; Back</a>
+    <div class="profile" style="margin-top:16px">
+      <div class="big-avatar">Y</div>
+      <div>
+        <h1 class="name">Yuki Tanaka</h1>
+        <p class="handle">Employee #193</p>
+        <dl>
+          <dt>Name</dt><dd>Yuki Tanaka</dd>
+          <dt>Email</dt><dd>ytanaka@acme.test</dd>
+          <dt>Note</dt><dd>Mentor for new hires</dd>
+        </dl>
+      </div>
+    </div>
+  </main>
+  <footer><div class="inner">Acme People</div></footer>
+</body>
+</html>
+User ID 209 exists:
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Emilia Vanhanen — Acme People</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=DM+Serif+Display&display=swap" rel="stylesheet">
+  <style>
+:root{--bg:#fbfaf7;--ink:#1a1816;--paper:#fff;--line:#e5e2dc;--accent:#c4552b;--muted:#7a736b}
+*{box-sizing:border-box}html,body{margin:0;padding:0}
+body{font-family:"DM Sans",system-ui,sans-serif;background:var(--bg);color:var(--ink);line-height:1.55}
+header{border-bottom:1px solid var(--line);background:var(--paper)}
+.top{max-width:1040px;margin:0 auto;padding:14px 24px;display:flex;align-items:center;justify-content:space-between;font-size:13px}
+.logo{font-family:"DM Serif Display",serif;font-size:22px}
+.logo span{color:var(--accent)}
+main{max-width:1040px;margin:0 auto;padding:48px 24px 80px}
+h1{font-family:"DM Serif Display",serif;font-weight:400;font-size:36px;margin:0 0 8px}
+.lede{color:#3a342e;font-size:16px}
+.btn{background:var(--ink);color:#fff;text-decoration:none;padding:9px 14px;font-size:13px;border-radius:2px;display:inline-block}
+.btn:hover{background:var(--accent)}
+.back{font-size:13px;color:var(--muted);text-decoration:none}
+.back:hover{color:var(--accent)}
+footer{border-top:1px solid var(--line);background:var(--paper);margin-top:48px}
+footer .inner{max-width:1040px;margin:0 auto;padding:16px 24px;font-size:12px;color:var(--muted)}
+
+    .profile{background:var(--paper);border:1px solid var(--line);padding:32px;margin-top:8px;display:grid;grid-template-columns:100px 1fr;gap:28px;align-items:start}
+    .big-avatar{width:100px;height:100px;border-radius:50%;background:linear-gradient(135deg,#c4552b,#f5b97e);color:#fff;display:grid;place-items:center;font-family:"DM Serif Display",serif;font-size:42px;font-weight:400}
+    .name{font-family:"DM Serif Display",serif;font-size:32px;margin:0 0 4px;font-weight:400}
+    .handle{color:var(--muted);font-size:13px;margin:0 0 20px}
+    dl{margin:0;display:grid;grid-template-columns:120px 1fr;gap:10px 24px}
+    dt{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--muted);padding-top:2px}
+    dd{margin:0;font-size:14px;color:var(--ink);word-break:break-word}
+  </style>
+</head>
+<body>
+  <header><div class="top"><div class="logo">Acme <span>People</span></div><span style="color:var(--muted)">Signed in</span></div></header>
+  <main>
+    <a class="back" href="../">&larr; Back</a>
+    <div class="profile" style="margin-top:16px">
+      <div class="big-avatar">E</div>
+      <div>
+        <h1 class="name">Emilia Vanhanen</h1>
+        <p class="handle">Employee #209</p>
+        <dl>
+          <dt>Name</dt><dd>Emilia Vanhanen</dd>
+          <dt>Email</dt><dd>emilia.v@acme.test</dd>
+          <dt>Note</dt><dd>Allergic to peanuts</dd>
+        </dl>
+      </div>
+    </div>
+  </main>
+  <footer><div class="inner">Acme People</div></footer>
+</body>
+</html>
+User ID 224 exists:
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Theo Larsson — Acme People</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=DM+Serif+Display&display=swap" rel="stylesheet">
+  <style>
+:root{--bg:#fbfaf7;--ink:#1a1816;--paper:#fff;--line:#e5e2dc;--accent:#c4552b;--muted:#7a736b}
+*{box-sizing:border-box}html,body{margin:0;padding:0}
+body{font-family:"DM Sans",system-ui,sans-serif;background:var(--bg);color:var(--ink);line-height:1.55}
+header{border-bottom:1px solid var(--line);background:var(--paper)}
+.top{max-width:1040px;margin:0 auto;padding:14px 24px;display:flex;align-items:center;justify-content:space-between;font-size:13px}
+.logo{font-family:"DM Serif Display",serif;font-size:22px}
+.logo span{color:var(--accent)}
+main{max-width:1040px;margin:0 auto;padding:48px 24px 80px}
+h1{font-family:"DM Serif Display",serif;font-weight:400;font-size:36px;margin:0 0 8px}
+.lede{color:#3a342e;font-size:16px}
+.btn{background:var(--ink);color:#fff;text-decoration:none;padding:9px 14px;font-size:13px;border-radius:2px;display:inline-block}
+.btn:hover{background:var(--accent)}
+.back{font-size:13px;color:var(--muted);text-decoration:none}
+.back:hover{color:var(--accent)}
+footer{border-top:1px solid var(--line);background:var(--paper);margin-top:48px}
+footer .inner{max-width:1040px;margin:0 auto;padding:16px 24px;font-size:12px;color:var(--muted)}
+
+    .profile{background:var(--paper);border:1px solid var(--line);padding:32px;margin-top:8px;display:grid;grid-template-columns:100px 1fr;gap:28px;align-items:start}
+    .big-avatar{width:100px;height:100px;border-radius:50%;background:linear-gradient(135deg,#c4552b,#f5b97e);color:#fff;display:grid;place-items:center;font-family:"DM Serif Display",serif;font-size:42px;font-weight:400}
+    .name{font-family:"DM Serif Display",serif;font-size:32px;margin:0 0 4px;font-weight:400}
+    .handle{color:var(--muted);font-size:13px;margin:0 0 20px}
+    dl{margin:0;display:grid;grid-template-columns:120px 1fr;gap:10px 24px}
+    dt{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--muted);padding-top:2px}
+    dd{margin:0;font-size:14px;color:var(--ink);word-break:break-word}
+  </style>
+</head>
+<body>
+  <header><div class="top"><div class="logo">Acme <span>People</span></div><span style="color:var(--muted)">Signed in</span></div></header>
+  <main>
+    <a class="back" href="../">&larr; Back</a>
+    <div class="profile" style="margin-top:16px">
+      <div class="big-avatar">T</div>
+      <div>
+        <h1 class="name">Theo Larsson</h1>
+        <p class="handle">Employee #224</p>
+        <dl>
+          <dt>Name</dt><dd>Theo Larsson</dd>
+          <dt>Email</dt><dd>tlarsson@acme.test</dd>
+          <dt>Note</dt><dd>Remote Wednesdays</dd>
+        </dl>
+      </div>
+    </div>
+  </main>
+  <footer><div class="inner">Acme People</div></footer>
+</body>
+</html>
+User ID 238 exists:
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Hannah Weiss — Acme People</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=DM+Serif+Display&display=swap" rel="stylesheet">
+  <style>
+:root{--bg:#fbfaf7;--ink:#1a1816;--paper:#fff;--line:#e5e2dc;--accent:#c4552b;--muted:#7a736b}
+*{box-sizing:border-box}html,body{margin:0;padding:0}
+body{font-family:"DM Sans",system-ui,sans-serif;background:var(--bg);color:var(--ink);line-height:1.55}
+header{border-bottom:1px solid var(--line);background:var(--paper)}
+.top{max-width:1040px;margin:0 auto;padding:14px 24px;display:flex;align-items:center;justify-content:space-between;font-size:13px}
+.logo{font-family:"DM Serif Display",serif;font-size:22px}
+.logo span{color:var(--accent)}
+main{max-width:1040px;margin:0 auto;padding:48px 24px 80px}
+h1{font-family:"DM Serif Display",serif;font-weight:400;font-size:36px;margin:0 0 8px}
+.lede{color:#3a342e;font-size:16px}
+.btn{background:var(--ink);color:#fff;text-decoration:none;padding:9px 14px;font-size:13px;border-radius:2px;display:inline-block}
+.btn:hover{background:var(--accent)}
+.back{font-size:13px;color:var(--muted);text-decoration:none}
+.back:hover{color:var(--accent)}
+footer{border-top:1px solid var(--line);background:var(--paper);margin-top:48px}
+footer .inner{max-width:1040px;margin:0 auto;padding:16px 24px;font-size:12px;color:var(--muted)}
+
+    .profile{background:var(--paper);border:1px solid var(--line);padding:32px;margin-top:8px;display:grid;grid-template-columns:100px 1fr;gap:28px;align-items:start}
+    .big-avatar{width:100px;height:100px;border-radius:50%;background:linear-gradient(135deg,#c4552b,#f5b97e);color:#fff;display:grid;place-items:center;font-family:"DM Serif Display",serif;font-size:42px;font-weight:400}
+    .name{font-family:"DM Serif Display",serif;font-size:32px;margin:0 0 4px;font-weight:400}
+    .handle{color:var(--muted);font-size:13px;margin:0 0 20px}
+    dl{margin:0;display:grid;grid-template-columns:120px 1fr;gap:10px 24px}
+    dt{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--muted);padding-top:2px}
+    dd{margin:0;font-size:14px;color:var(--ink);word-break:break-word}
+  </style>
+</head>
+<body>
+  <header><div class="top"><div class="logo">Acme <span>People</span></div><span style="color:var(--muted)">Signed in</span></div></header>
+  <main>
+    <a class="back" href="../">&larr; Back</a>
+    <div class="profile" style="margin-top:16px">
+      <div class="big-avatar">H</div>
+      <div>
+        <h1 class="name">Hannah Weiss</h1>
+        <p class="handle">Employee #238</p>
+        <dl>
+          <dt>Name</dt><dd>Hannah Weiss</dd>
+          <dt>Email</dt><dd>hweiss@acme.test</dd>
+          <dt>Note</dt><dd>On-call rotation B</dd>
+        </dl>
+      </div>
+    </div>
+  </main>
+  <footer><div class="inner">Acme People</div></footer>
+</body>
+</html>
+User ID 247 exists:
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Dana Thompson — Acme People</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=DM+Serif+Display&display=swap" rel="stylesheet">
+  <style>
+:root{--bg:#fbfaf7;--ink:#1a1816;--paper:#fff;--line:#e5e2dc;--accent:#c4552b;--muted:#7a736b}
+*{box-sizing:border-box}html,body{margin:0;padding:0}
+body{font-family:"DM Sans",system-ui,sans-serif;background:var(--bg);color:var(--ink);line-height:1.55}
+header{border-bottom:1px solid var(--line);background:var(--paper)}
+.top{max-width:1040px;margin:0 auto;padding:14px 24px;display:flex;align-items:center;justify-content:space-between;font-size:13px}
+.logo{font-family:"DM Serif Display",serif;font-size:22px}
+.logo span{color:var(--accent)}
+main{max-width:1040px;margin:0 auto;padding:48px 24px 80px}
+h1{font-family:"DM Serif Display",serif;font-weight:400;font-size:36px;margin:0 0 8px}
+.lede{color:#3a342e;font-size:16px}
+.btn{background:var(--ink);color:#fff;text-decoration:none;padding:9px 14px;font-size:13px;border-radius:2px;display:inline-block}
+.btn:hover{background:var(--accent)}
+.back{font-size:13px;color:var(--muted);text-decoration:none}
+.back:hover{color:var(--accent)}
+footer{border-top:1px solid var(--line);background:var(--paper);margin-top:48px}
+footer .inner{max-width:1040px;margin:0 auto;padding:16px 24px;font-size:12px;color:var(--muted)}
+
+    .profile{background:var(--paper);border:1px solid var(--line);padding:32px;margin-top:8px;display:grid;grid-template-columns:100px 1fr;gap:28px;align-items:start}
+    .big-avatar{width:100px;height:100px;border-radius:50%;background:linear-gradient(135deg,#c4552b,#f5b97e);color:#fff;display:grid;place-items:center;font-family:"DM Serif Display",serif;font-size:42px;font-weight:400}
+    .name{font-family:"DM Serif Display",serif;font-size:32px;margin:0 0 4px;font-weight:400}
+    .handle{color:var(--muted);font-size:13px;margin:0 0 20px}
+    dl{margin:0;display:grid;grid-template-columns:120px 1fr;gap:10px 24px}
+    dt{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--muted);padding-top:2px}
+    dd{margin:0;font-size:14px;color:var(--ink);word-break:break-word}
+  </style>
+</head>
+<body>
+  <header><div class="top"><div class="logo">Acme <span>People</span></div><span style="color:var(--muted)">Signed in</span></div></header>
+  <main>
+    <a class="back" href="../">&larr; Back</a>
+    <div class="profile" style="margin-top:16px">
+      <div class="big-avatar">D</div>
+      <div>
+        <h1 class="name">Dana Thompson</h1>
+        <p class="handle">Employee #247</p>
+        <dl>
+          <dt>Name</dt><dd>Dana Thompson</dd>
+          <dt>Email</dt><dd>dana@acme.test</dd>
+          <dt>Note</dt><dd>ok</dd>
+        </dl>
+      </div>
+    </div>
+  </main>
+  <footer><div class="inner">Acme People</div></footer>
+</body>
+</html>
+User ID 259 exists:
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Rafael Montenegro — Acme People</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=DM+Serif+Display&display=swap" rel="stylesheet">
+  <style>
+:root{--bg:#fbfaf7;--ink:#1a1816;--paper:#fff;--line:#e5e2dc;--accent:#c4552b;--muted:#7a736b}
+*{box-sizing:border-box}html,body{margin:0;padding:0}
+body{font-family:"DM Sans",system-ui,sans-serif;background:var(--bg);color:var(--ink);line-height:1.55}
+header{border-bottom:1px solid var(--line);background:var(--paper)}
+.top{max-width:1040px;margin:0 auto;padding:14px 24px;display:flex;align-items:center;justify-content:space-between;font-size:13px}
+.logo{font-family:"DM Serif Display",serif;font-size:22px}
+.logo span{color:var(--accent)}
+main{max-width:1040px;margin:0 auto;padding:48px 24px 80px}
+h1{font-family:"DM Serif Display",serif;font-weight:400;font-size:36px;margin:0 0 8px}
+.lede{color:#3a342e;font-size:16px}
+.btn{background:var(--ink);color:#fff;text-decoration:none;padding:9px 14px;font-size:13px;border-radius:2px;display:inline-block}
+.btn:hover{background:var(--accent)}
+.back{font-size:13px;color:var(--muted);text-decoration:none}
+.back:hover{color:var(--accent)}
+footer{border-top:1px solid var(--line);background:var(--paper);margin-top:48px}
+footer .inner{max-width:1040px;margin:0 auto;padding:16px 24px;font-size:12px;color:var(--muted)}
+
+    .profile{background:var(--paper);border:1px solid var(--line);padding:32px;margin-top:8px;display:grid;grid-template-columns:100px 1fr;gap:28px;align-items:start}
+    .big-avatar{width:100px;height:100px;border-radius:50%;background:linear-gradient(135deg,#c4552b,#f5b97e);color:#fff;display:grid;place-items:center;font-family:"DM Serif Display",serif;font-size:42px;font-weight:400}
+    .name{font-family:"DM Serif Display",serif;font-size:32px;margin:0 0 4px;font-weight:400}
+    .handle{color:var(--muted);font-size:13px;margin:0 0 20px}
+    dl{margin:0;display:grid;grid-template-columns:120px 1fr;gap:10px 24px}
+    dt{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--muted);padding-top:2px}
+    dd{margin:0;font-size:14px;color:var(--ink);word-break:break-word}
+  </style>
+</head>
+<body>
+  <header><div class="top"><div class="logo">Acme <span>People</span></div><span style="color:var(--muted)">Signed in</span></div></header>
+  <main>
+    <a class="back" href="../">&larr; Back</a>
+    <div class="profile" style="margin-top:16px">
+      <div class="big-avatar">R</div>
+      <div>
+        <h1 class="name">Rafael Montenegro</h1>
+        <p class="handle">Employee #259</p>
+        <dl>
+          <dt>Name</dt><dd>Rafael Montenegro</dd>
+          <dt>Email</dt><dd>rmontenegro@acme.test</dd>
+          <dt>Note</dt><dd>Backup approver for travel</dd>
+        </dl>
+      </div>
+    </div>
+  </main>
+  <footer><div class="inner">Acme People</div></footer>
+</body>
+</html>
+User ID 271 exists:
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Amani Osei — Acme People</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=DM+Serif+Display&display=swap" rel="stylesheet">
+  <style>
+:root{--bg:#fbfaf7;--ink:#1a1816;--paper:#fff;--line:#e5e2dc;--accent:#c4552b;--muted:#7a736b}
+*{box-sizing:border-box}html,body{margin:0;padding:0}
+body{font-family:"DM Sans",system-ui,sans-serif;background:var(--bg);color:var(--ink);line-height:1.55}
+header{border-bottom:1px solid var(--line);background:var(--paper)}
+.top{max-width:1040px;margin:0 auto;padding:14px 24px;display:flex;align-items:center;justify-content:space-between;font-size:13px}
+.logo{font-family:"DM Serif Display",serif;font-size:22px}
+.logo span{color:var(--accent)}
+main{max-width:1040px;margin:0 auto;padding:48px 24px 80px}
+h1{font-family:"DM Serif Display",serif;font-weight:400;font-size:36px;margin:0 0 8px}
+.lede{color:#3a342e;font-size:16px}
+.btn{background:var(--ink);color:#fff;text-decoration:none;padding:9px 14px;font-size:13px;border-radius:2px;display:inline-block}
+.btn:hover{background:var(--accent)}
+.back{font-size:13px;color:var(--muted);text-decoration:none}
+.back:hover{color:var(--accent)}
+footer{border-top:1px solid var(--line);background:var(--paper);margin-top:48px}
+footer .inner{max-width:1040px;margin:0 auto;padding:16px 24px;font-size:12px;color:var(--muted)}
+
+    .profile{background:var(--paper);border:1px solid var(--line);padding:32px;margin-top:8px;display:grid;grid-template-columns:100px 1fr;gap:28px;align-items:start}
+    .big-avatar{width:100px;height:100px;border-radius:50%;background:linear-gradient(135deg,#c4552b,#f5b97e);color:#fff;display:grid;place-items:center;font-family:"DM Serif Display",serif;font-size:42px;font-weight:400}
+    .name{font-family:"DM Serif Display",serif;font-size:32px;margin:0 0 4px;font-weight:400}
+    .handle{color:var(--muted);font-size:13px;margin:0 0 20px}
+    dl{margin:0;display:grid;grid-template-columns:120px 1fr;gap:10px 24px}
+    dt{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--muted);padding-top:2px}
+    dd{margin:0;font-size:14px;color:var(--ink);word-break:break-word}
+  </style>
+</head>
+<body>
+  <header><div class="top"><div class="logo">Acme <span>People</span></div><span style="color:var(--muted)">Signed in</span></div></header>
+  <main>
+    <a class="back" href="../">&larr; Back</a>
+    <div class="profile" style="margin-top:16px">
+      <div class="big-avatar">A</div>
+      <div>
+        <h1 class="name">Amani Osei</h1>
+        <p class="handle">Employee #271</p>
+        <dl>
+          <dt>Name</dt><dd>Amani Osei</dd>
+          <dt>Email</dt><dd>aosei@acme.test</dd>
+          <dt>Note</dt><dd>Finishing onboarding</dd>
+        </dl>
+      </div>
+    </div>
+  </main>
+  <footer><div class="inner">Acme People</div></footer>
+</body>
+</html>
+User ID 284 exists:
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Ivan Petrov — Acme People</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=DM+Serif+Display&display=swap" rel="stylesheet">
+  <style>
+:root{--bg:#fbfaf7;--ink:#1a1816;--paper:#fff;--line:#e5e2dc;--accent:#c4552b;--muted:#7a736b}
+*{box-sizing:border-box}html,body{margin:0;padding:0}
+body{font-family:"DM Sans",system-ui,sans-serif;background:var(--bg);color:var(--ink);line-height:1.55}
+header{border-bottom:1px solid var(--line);background:var(--paper)}
+.top{max-width:1040px;margin:0 auto;padding:14px 24px;display:flex;align-items:center;justify-content:space-between;font-size:13px}
+.logo{font-family:"DM Serif Display",serif;font-size:22px}
+.logo span{color:var(--accent)}
+main{max-width:1040px;margin:0 auto;padding:48px 24px 80px}
+h1{font-family:"DM Serif Display",serif;font-weight:400;font-size:36px;margin:0 0 8px}
+.lede{color:#3a342e;font-size:16px}
+.btn{background:var(--ink);color:#fff;text-decoration:none;padding:9px 14px;font-size:13px;border-radius:2px;display:inline-block}
+.btn:hover{background:var(--accent)}
+.back{font-size:13px;color:var(--muted);text-decoration:none}
+.back:hover{color:var(--accent)}
+footer{border-top:1px solid var(--line);background:var(--paper);margin-top:48px}
+footer .inner{max-width:1040px;margin:0 auto;padding:16px 24px;font-size:12px;color:var(--muted)}
+
+    .profile{background:var(--paper);border:1px solid var(--line);padding:32px;margin-top:8px;display:grid;grid-template-columns:100px 1fr;gap:28px;align-items:start}
+    .big-avatar{width:100px;height:100px;border-radius:50%;background:linear-gradient(135deg,#c4552b,#f5b97e);color:#fff;display:grid;place-items:center;font-family:"DM Serif Display",serif;font-size:42px;font-weight:400}
+    .name{font-family:"DM Serif Display",serif;font-size:32px;margin:0 0 4px;font-weight:400}
+    .handle{color:var(--muted);font-size:13px;margin:0 0 20px}
+    dl{margin:0;display:grid;grid-template-columns:120px 1fr;gap:10px 24px}
+    dt{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--muted);padding-top:2px}
+    dd{margin:0;font-size:14px;color:var(--ink);word-break:break-word}
+  </style>
+</head>
+<body>
+  <header><div class="top"><div class="logo">Acme <span>People</span></div><span style="color:var(--muted)">Signed in</span></div></header>
+  <main>
+    <a class="back" href="../">&larr; Back</a>
+    <div class="profile" style="margin-top:16px">
+      <div class="big-avatar">I</div>
+      <div>
+        <h1 class="name">Ivan Petrov</h1>
+        <p class="handle">Employee #284</p>
+        <dl>
+          <dt>Name</dt><dd>Ivan Petrov</dd>
+          <dt>Email</dt><dd>ipetrov@acme.test</dd>
+          <dt>Note</dt><dd>Speaks FI/EN/RU</dd>
+        </dl>
+      </div>
+    </div>
+  </main>
+  <footer><div class="inner">Acme People</div></footer>
+</body>
+</html>
+User ID 296 exists:
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Beatrice Huang — Acme People</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=DM+Serif+Display&display=swap" rel="stylesheet">
+  <style>
+:root{--bg:#fbfaf7;--ink:#1a1816;--paper:#fff;--line:#e5e2dc;--accent:#c4552b;--muted:#7a736b}
+*{box-sizing:border-box}html,body{margin:0;padding:0}
+body{font-family:"DM Sans",system-ui,sans-serif;background:var(--bg);color:var(--ink);line-height:1.55}
+header{border-bottom:1px solid var(--line);background:var(--paper)}
+.top{max-width:1040px;margin:0 auto;padding:14px 24px;display:flex;align-items:center;justify-content:space-between;font-size:13px}
+.logo{font-family:"DM Serif Display",serif;font-size:22px}
+.logo span{color:var(--accent)}
+main{max-width:1040px;margin:0 auto;padding:48px 24px 80px}
+h1{font-family:"DM Serif Display",serif;font-weight:400;font-size:36px;margin:0 0 8px}
+.lede{color:#3a342e;font-size:16px}
+.btn{background:var(--ink);color:#fff;text-decoration:none;padding:9px 14px;font-size:13px;border-radius:2px;display:inline-block}
+.btn:hover{background:var(--accent)}
+.back{font-size:13px;color:var(--muted);text-decoration:none}
+.back:hover{color:var(--accent)}
+footer{border-top:1px solid var(--line);background:var(--paper);margin-top:48px}
+footer .inner{max-width:1040px;margin:0 auto;padding:16px 24px;font-size:12px;color:var(--muted)}
+
+    .profile{background:var(--paper);border:1px solid var(--line);padding:32px;margin-top:8px;display:grid;grid-template-columns:100px 1fr;gap:28px;align-items:start}
+    .big-avatar{width:100px;height:100px;border-radius:50%;background:linear-gradient(135deg,#c4552b,#f5b97e);color:#fff;display:grid;place-items:center;font-family:"DM Serif Display",serif;font-size:42px;font-weight:400}
+    .name{font-family:"DM Serif Display",serif;font-size:32px;margin:0 0 4px;font-weight:400}
+    .handle{color:var(--muted);font-size:13px;margin:0 0 20px}
+    dl{margin:0;display:grid;grid-template-columns:120px 1fr;gap:10px 24px}
+    dt{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--muted);padding-top:2px}
+    dd{margin:0;font-size:14px;color:var(--ink);word-break:break-word}
+  </style>
+</head>
+<body>
+  <header><div class="top"><div class="logo">Acme <span>People</span></div><span style="color:var(--muted)">Signed in</span></div></header>
+  <main>
+    <a class="back" href="../">&larr; Back</a>
+    <div class="profile" style="margin-top:16px">
+      <div class="big-avatar">B</div>
+      <div>
+        <h1 class="name">Beatrice Huang</h1>
+        <p class="handle">Employee #296</p>
+        <dl>
+          <dt>Name</dt><dd>Beatrice Huang</dd>
+          <dt>Email</dt><dd>bhuang@acme.test</dd>
+          <dt>Note</dt><dd>Docs champion Q2</dd>
+        </dl>
+      </div>
+    </div>
+  </main>
+  <footer><div class="inner">Acme People</div></footer>
+</body>
+</html>
+
+User ID 305 exists:
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Oscar Virtanen — Acme People</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=DM+Serif+Display&display=swap" rel="stylesheet">
+  <style>
+:root{--bg:#fbfaf7;--ink:#1a1816;--paper:#fff;--line:#e5e2dc;--accent:#c4552b;--muted:#7a736b}
+*{box-sizing:border-box}html,body{margin:0;padding:0}
+body{font-family:"DM Sans",system-ui,sans-serif;background:var(--bg);color:var(--ink);line-height:1.55}
+header{border-bottom:1px solid var(--line);background:var(--paper)}
+.top{max-width:1040px;margin:0 auto;padding:14px 24px;display:flex;align-items:center;justify-content:space-between;font-size:13px}
+.logo{font-family:"DM Serif Display",serif;font-size:22px}
+.logo span{color:var(--accent)}
+main{max-width:1040px;margin:0 auto;padding:48px 24px 80px}
+h1{font-family:"DM Serif Display",serif;font-weight:400;font-size:36px;margin:0 0 8px}
+.lede{color:#3a342e;font-size:16px}
+.btn{background:var(--ink);color:#fff;text-decoration:none;padding:9px 14px;font-size:13px;border-radius:2px;display:inline-block}
+.btn:hover{background:var(--accent)}
+.back{font-size:13px;color:var(--muted);text-decoration:none}
+.back:hover{color:var(--accent)}
+footer{border-top:1px solid var(--line);background:var(--paper);margin-top:48px}
+footer .inner{max-width:1040px;margin:0 auto;padding:16px 24px;font-size:12px;color:var(--muted)}
+
+    .profile{background:var(--paper);border:1px solid var(--line);padding:32px;margin-top:8px;display:grid;grid-template-columns:100px 1fr;gap:28px;align-items:start}
+    .big-avatar{width:100px;height:100px;border-radius:50%;background:linear-gradient(135deg,#c4552b,#f5b97e);color:#fff;display:grid;place-items:center;font-family:"DM Serif Display",serif;font-size:42px;font-weight:400}
+    .name{font-family:"DM Serif Display",serif;font-size:32px;margin:0 0 4px;font-weight:400}
+    .handle{color:var(--muted);font-size:13px;margin:0 0 20px}
+    dl{margin:0;display:grid;grid-template-columns:120px 1fr;gap:10px 24px}
+    dt{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--muted);padding-top:2px}
+    dd{margin:0;font-size:14px;color:var(--ink);word-break:break-word}
+  </style>
+</head>
+<body>
+  <header><div class="top"><div class="logo">Acme <span>People</span></div><span style="color:var(--muted)">Signed in</span></div></header>
+  <main>
+    <a class="back" href="../">&larr; Back</a>
+    <div class="profile" style="margin-top:16px">
+      <div class="big-avatar">O</div>
+      <div>
+        <h1 class="name">Oscar Virtanen</h1>
+        <p class="handle">Employee #305</p>
+        <dl>
+          <dt>Name</dt><dd>Oscar Virtanen</dd>
+          <dt>Email</dt><dd>ovirtanen@acme.test</dd>
+          <dt>Note</dt><dd>Desk near kitchen</dd>
+        </dl>
+      </div>
+    </div>
+  </main>
+  <footer><div class="inner">Acme People</div></footer>
+</body>
+</html>
+User ID 318 exists:
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Lena Fischer — Acme People</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=DM+Serif+Display&display=swap" rel="stylesheet">
+  <style>
+:root{--bg:#fbfaf7;--ink:#1a1816;--paper:#fff;--line:#e5e2dc;--accent:#c4552b;--muted:#7a736b}
+*{box-sizing:border-box}html,body{margin:0;padding:0}
+body{font-family:"DM Sans",system-ui,sans-serif;background:var(--bg);color:var(--ink);line-height:1.55}
+header{border-bottom:1px solid var(--line);background:var(--paper)}
+.top{max-width:1040px;margin:0 auto;padding:14px 24px;display:flex;align-items:center;justify-content:space-between;font-size:13px}
+.logo{font-family:"DM Serif Display",serif;font-size:22px}
+.logo span{color:var(--accent)}
+main{max-width:1040px;margin:0 auto;padding:48px 24px 80px}
+h1{font-family:"DM Serif Display",serif;font-weight:400;font-size:36px;margin:0 0 8px}
+.lede{color:#3a342e;font-size:16px}
+.btn{background:var(--ink);color:#fff;text-decoration:none;padding:9px 14px;font-size:13px;border-radius:2px;display:inline-block}
+.btn:hover{background:var(--accent)}
+.back{font-size:13px;color:var(--muted);text-decoration:none}
+.back:hover{color:var(--accent)}
+footer{border-top:1px solid var(--line);background:var(--paper);margin-top:48px}
+footer .inner{max-width:1040px;margin:0 auto;padding:16px 24px;font-size:12px;color:var(--muted)}
+
+    .profile{background:var(--paper);border:1px solid var(--line);padding:32px;margin-top:8px;display:grid;grid-template-columns:100px 1fr;gap:28px;align-items:start}
+    .big-avatar{width:100px;height:100px;border-radius:50%;background:linear-gradient(135deg,#c4552b,#f5b97e);color:#fff;display:grid;place-items:center;font-family:"DM Serif Display",serif;font-size:42px;font-weight:400}
+    .name{font-family:"DM Serif Display",serif;font-size:32px;margin:0 0 4px;font-weight:400}
+    .handle{color:var(--muted);font-size:13px;margin:0 0 20px}
+    dl{margin:0;display:grid;grid-template-columns:120px 1fr;gap:10px 24px}
+    dt{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--muted);padding-top:2px}
+    dd{margin:0;font-size:14px;color:var(--ink);word-break:break-word}
+  </style>
+</head>
+<body>
+  <header><div class="top"><div class="logo">Acme <span>People</span></div><span style="color:var(--muted)">Signed in</span></div></header>
+  <main>
+    <a class="back" href="../">&larr; Back</a>
+    <div class="profile" style="margin-top:16px">
+      <div class="big-avatar">L</div>
+      <div>
+        <h1 class="name">Lena Fischer</h1>
+        <p class="handle">Employee #318</p>
+        <dl>
+          <dt>Name</dt><dd>Lena Fischer</dd>
+          <dt>Email</dt><dd>lena.fischer@acme.test</dd>
+          <dt>Note</dt><dd>SavoSec{4ba11546-e790-4334-a4a3-eab388b6c84b}</dd>
+        </dl>
+      </div>
+    </div>
+  </main>
+  <footer><div class="inner">Acme People</div></footer>
+</body>
+</html>
+User ID 327 exists:
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Kwame Boateng — Acme People</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=DM+Serif+Display&display=swap" rel="stylesheet">
+  <style>
+:root{--bg:#fbfaf7;--ink:#1a1816;--paper:#fff;--line:#e5e2dc;--accent:#c4552b;--muted:#7a736b}
+*{box-sizing:border-box}html,body{margin:0;padding:0}
+body{font-family:"DM Sans",system-ui,sans-serif;background:var(--bg);color:var(--ink);line-height:1.55}
+header{border-bottom:1px solid var(--line);background:var(--paper)}
+.top{max-width:1040px;margin:0 auto;padding:14px 24px;display:flex;align-items:center;justify-content:space-between;font-size:13px}
+.logo{font-family:"DM Serif Display",serif;font-size:22px}
+.logo span{color:var(--accent)}
+main{max-width:1040px;margin:0 auto;padding:48px 24px 80px}
+h1{font-family:"DM Serif Display",serif;font-weight:400;font-size:36px;margin:0 0 8px}
+.lede{color:#3a342e;font-size:16px}
+.btn{background:var(--ink);color:#fff;text-decoration:none;padding:9px 14px;font-size:13px;border-radius:2px;display:inline-block}
+.btn:hover{background:var(--accent)}
+.back{font-size:13px;color:var(--muted);text-decoration:none}
+.back:hover{color:var(--accent)}
+footer{border-top:1px solid var(--line);background:var(--paper);margin-top:48px}
+footer .inner{max-width:1040px;margin:0 auto;padding:16px 24px;font-size:12px;color:var(--muted)}
+
+    .profile{background:var(--paper);border:1px solid var(--line);padding:32px;margin-top:8px;display:grid;grid-template-columns:100px 1fr;gap:28px;align-items:start}
+    .big-avatar{width:100px;height:100px;border-radius:50%;background:linear-gradient(135deg,#c4552b,#f5b97e);color:#fff;display:grid;place-items:center;font-family:"DM Serif Display",serif;font-size:42px;font-weight:400}
+    .name{font-family:"DM Serif Display",serif;font-size:32px;margin:0 0 4px;font-weight:400}
+    .handle{color:var(--muted);font-size:13px;margin:0 0 20px}
+    dl{margin:0;display:grid;grid-template-columns:120px 1fr;gap:10px 24px}
+    dt{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--muted);padding-top:2px}
+    dd{margin:0;font-size:14px;color:var(--ink);word-break:break-word}
+  </style>
+</head>
+<body>
+  <header><div class="top"><div class="logo">Acme <span>People</span></div><span style="color:var(--muted)">Signed in</span></div></header>
+  <main>
+    <a class="back" href="../">&larr; Back</a>
+    <div class="profile" style="margin-top:16px">
+      <div class="big-avatar">K</div>
+      <div>
+        <h1 class="name">Kwame Boateng</h1>
+        <p class="handle">Employee #327</p>
+        <dl>
+          <dt>Name</dt><dd>Kwame Boateng</dd>
+          <dt>Email</dt><dd>kboateng@acme.test</dd>
+          <dt>Note</dt><dd>Bike commuter</dd>
+        </dl>
+      </div>
+    </div>
+  </main>
+  <footer><div class="inner">Acme People</div></footer>
+</body>
+</html>
+User ID 339 exists:
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Simone Bellucci — Acme People</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=DM+Serif+Display&display=swap" rel="stylesheet">
+  <style>
+:root{--bg:#fbfaf7;--ink:#1a1816;--paper:#fff;--line:#e5e2dc;--accent:#c4552b;--muted:#7a736b}
+*{box-sizing:border-box}html,body{margin:0;padding:0}
+body{font-family:"DM Sans",system-ui,sans-serif;background:var(--bg);color:var(--ink);line-height:1.55}
+header{border-bottom:1px solid var(--line);background:var(--paper)}
+.top{max-width:1040px;margin:0 auto;padding:14px 24px;display:flex;align-items:center;justify-content:space-between;font-size:13px}
+.logo{font-family:"DM Serif Display",serif;font-size:22px}
+.logo span{color:var(--accent)}
+main{max-width:1040px;margin:0 auto;padding:48px 24px 80px}
+h1{font-family:"DM Serif Display",serif;font-weight:400;font-size:36px;margin:0 0 8px}
+.lede{color:#3a342e;font-size:16px}
+.btn{background:var(--ink);color:#fff;text-decoration:none;padding:9px 14px;font-size:13px;border-radius:2px;display:inline-block}
+.btn:hover{background:var(--accent)}
+.back{font-size:13px;color:var(--muted);text-decoration:none}
+.back:hover{color:var(--accent)}
+footer{border-top:1px solid var(--line);background:var(--paper);margin-top:48px}
+footer .inner{max-width:1040px;margin:0 auto;padding:16px 24px;font-size:12px;color:var(--muted)}
+
+    .profile{background:var(--paper);border:1px solid var(--line);padding:32px;margin-top:8px;display:grid;grid-template-columns:100px 1fr;gap:28px;align-items:start}
+    .big-avatar{width:100px;height:100px;border-radius:50%;background:linear-gradient(135deg,#c4552b,#f5b97e);color:#fff;display:grid;place-items:center;font-family:"DM Serif Display",serif;font-size:42px;font-weight:400}
+    .name{font-family:"DM Serif Display",serif;font-size:32px;margin:0 0 4px;font-weight:400}
+    .handle{color:var(--muted);font-size:13px;margin:0 0 20px}
+    dl{margin:0;display:grid;grid-template-columns:120px 1fr;gap:10px 24px}
+    dt{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--muted);padding-top:2px}
+    dd{margin:0;font-size:14px;color:var(--ink);word-break:break-word}
+  </style>
+</head>
+<body>
+  <header><div class="top"><div class="logo">Acme <span>People</span></div><span style="color:var(--muted)">Signed in</span></div></header>
+  <main>
+    <a class="back" href="../">&larr; Back</a>
+    <div class="profile" style="margin-top:16px">
+      <div class="big-avatar">S</div>
+      <div>
+        <h1 class="name">Simone Bellucci</h1>
+        <p class="handle">Employee #339</p>
+        <dl>
+          <dt>Name</dt><dd>Simone Bellucci</dd>
+          <dt>Email</dt><dd>sbellucci@acme.test</dd>
+          <dt>Note</dt><dd>Leads the Friday demo</dd>
+        </dl>
+      </div>
+    </div>
+  </main>
+  <footer><div class="inner">Acme People</div></footer>
+</body>
+</html>
+
+Process finished with exit code 0
