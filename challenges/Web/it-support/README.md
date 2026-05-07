@@ -2,8 +2,10 @@
 
 ## Description
 
-Find the hidden flag from the server
-
-url: https://ctf4.savosec.fi/pikatuki/#/
+Find the hidden flag from the server
 
+url: https://ctf4.savosec.fi/pikatuki/#/
 
+---
+
+Send anything.zip.php to get rce
