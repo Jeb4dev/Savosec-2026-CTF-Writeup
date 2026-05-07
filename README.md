@@ -2,7 +2,9 @@
 
 ## About
 
-[insert description here]
+This repository contains all the writeups for the challenges of 2026 SavSec CTF.
+
+Solution for all but 2 crypto and 1 web. Hopefully can be added later. Contributions are welcome!
 
 ## Challenges
 
