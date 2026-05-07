@@ -37,4 +37,33 @@ Attackers do this with wordlists and tools like `gobuster`, `feroxbuster`, `ffuf
 
 https://ctf1.savosec.fi/discover1/backup-notes/flag.txt
 
+````bash
+└─$ curl https://ctf1.savosec.fi/discover1/robots.txt                                     
+User-agent: *
+Disallow: staging-area/
+Disallow: backup-notes/
+````
+
+````bash
+└─$ curl https://ctf1.savosec.fi/discover1/backup-notes/
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+ <head>
+  <title>Index of /backup-notes</title>
+ </head>
+ <body>
+<h1>Index of /backup-notes</h1>
+<ul><li><a href="/"> Parent Directory</a></li>
+<li><a href="._flag.txt"> ._flag.txt</a></li>
+<li><a href="flag.txt"> flag.txt</a></li>
+</ul>
+<address>Apache/2.4.67 (Unix) Server at ctf1.savosec.fi Port 80</address>
+</body></html>
+````
+
+````bash
+└─$ curl https://ctf1.savosec.fi/discover1/backup-notes/flag.txt
 SavoSec{860de899-a845-49b2-936c-965f29b58fb5}
+````
+
+Flag: SavoSec{860de899-a845-49b2-936c-965f29b58fb5}

@@ -16,4 +16,10 @@ Rumor has it that the developers are working on a better access system after net
 
 host: https://ctf2.savosec.fi/lounge/
 
+![img.png](img.png)
+
+![img_1.png](img_1.png)
+
+Change plain text cookie role from staff to executive and reload the page.
+
 Flag;  SavoSec{Th3_Co0ki3_M0n5t3r_is_Th3_M4n4g3r} 

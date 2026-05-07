@@ -1,4 +1,5 @@
 from pwn import *
+# Wibe coded
 
 # Connect to the server
 r = remote('ctf4.savosec.fi', 2222)

@@ -16,4 +16,16 @@ Reports suggest that a recent update to their synchronization protocol was imple
 
 host: https://ctf1.savosec.fi/portal/
 
-git-dumper https://ctf1.savosec.fi/open_window/.git ./website
+html source code reveals credentials:
+
+``<!-- Internal Log: Default credential sequence: sysadmin:neuro_sync_master_2055 | Remove it before deployment -->``
+
+aw snap, 2fa, lets try 000000
+
+![img.png](img.png)
+
+![img_1.png](img_1.png)
+
+the page tells us the 2fa code: ``395403``
+
+SavoSec{N3v3r_TrU5t_Th3_V1b3C0d3_2FA} 

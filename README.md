@@ -10,24 +10,6 @@
 
 * [Welcome](<challenges/Welcome/welcome/>)
 
-### Web
-
-* [I like pickles in pieces.](<challenges/Web/i-like-pickles-in-pieces/>)
-* [Auth bypass 1](<challenges/Web/auth-bypass-1/>)
-* [Auth bypass 2](<challenges/Web/auth-bypass-2/>)
-* [To the window... to the wall...](<challenges/Web/to-the-window-to-the-wall/>)
-* [One does not simply walk into...](<challenges/Web/one-does-not-simply-walk-into/>)
-* [idor 1](<challenges/Web/idor-1/>)
-* [idor 2](<challenges/Web/idor-2/>)
-* [Once upon a time...](<challenges/Web/once-upon-a-time/>)
-* [In da Club](<challenges/Web/in-da-club/>)
-* [How do dwarves get away with crimes? Through forgery!](<challenges/Web/how-do-dwarves-get-away-with-crimes-through-forgery/>)
-* [Jay Double You Tee!!](<challenges/Web/jay-double-you-tee/>)
-* [I have Trypanophobia!](<challenges/Web/i-have-trypanophobia/>)
-* [IT Support](<challenges/Web/it-support/>)
-* [Content Discovery 1](<challenges/Web/content-discovery-1/>)
-* [Content Discovery 2](<challenges/Web/content-discovery-2/>)
-
 ### Crypto
 
 * [XORagami](<challenges/Crypto/xoragami/>)
@@ -52,6 +34,32 @@
 * [Dude, I love towers! Part 1](<challenges/OSINT/dude-i-love-towers-part-1/>)
 * [Dude, I love towers! Part 2](<challenges/OSINT/dude-i-love-towers-part-2/>)
 
+### Web
+
+* [I like pickles in pieces.](<challenges/Web/i-like-pickles-in-pieces/>)
+* [Auth bypass 1](<challenges/Web/auth-bypass-1/>)
+* [Auth bypass 2](<challenges/Web/auth-bypass-2/>)
+* [To the window... to the wall...](<challenges/Web/to-the-window-to-the-wall/>)
+* [One does not simply walk into...](<challenges/Web/one-does-not-simply-walk-into/>)
+* [idor 1](<challenges/Web/idor-1/>)
+* [In da Club](<challenges/Web/in-da-club/>)
+* [How do dwarves get away with crimes? Through forgery!](<challenges/Web/how-do-dwarves-get-away-with-crimes-through-forgery/>)
+* [IT Support](<challenges/Web/it-support/>)
+* [idor 2](<challenges/Web/idor-2/>)
+* [Once upon a time...](<challenges/Web/once-upon-a-time/>)
+* [I have Trypanophobia!](<challenges/Web/i-have-trypanophobia/>)
+* [Content Discovery 1](<challenges/Web/content-discovery-1/>)
+* [Jay Double You Tee!!](<challenges/Web/jay-double-you-tee/>)
+* [Content Discovery 2](<challenges/Web/content-discovery-2/>)
+
+### Forensics
+
+* [Are you human?](<challenges/Forensics/are-you-human/>)
+
+### pwn
+
+* [Quick math!](<challenges/pwn/quick-math/>)
+
 ### Reverse
 
 * [Reverse 1](<challenges/Reverse/reverse-1/>)
@@ -59,18 +67,10 @@
 * [Reverse 3](<challenges/Reverse/reverse-3/>)
 * [Reverse 4](<challenges/Reverse/reverse-4/>)
 
-### pwn
-
-* [Quick math!](<challenges/pwn/quick-math/>)
-
-### Forensics
-
-* [Are you human?](<challenges/Forensics/are-you-human/>)
-
 ### Stegano
 
 * [Winter is coming!](<challenges/Stegano/winter-is-coming/>)
+* [Walking my way downtown](<challenges/Stegano/walking-my-way-downtown/>)
 * [Surely](<challenges/Stegano/surely/>)
 * [CyberDucks](<challenges/Stegano/cyberducks/>)
-* [Walking my way downtown](<challenges/Stegano/walking-my-way-downtown/>)
 

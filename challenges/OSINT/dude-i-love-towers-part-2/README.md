@@ -14,11 +14,10 @@ I found a better place to appreciate the view! Do you know what they say here in
 
 ---
 
-Flag's format: xx.xxxxxxxxxxxxxx, xx.xxxxxxxxxxxxxx 
 
-62.804023, 27.628811
-62.804065, 27.628668
-62.804024, 27.628809
-62.804020, 27.628812
-62.804025, 27.628813
-62.804019, 27.628811
+Flag's format: xx.xxxxxx, xx.xxxxxx 
+
+Vanuvuoren näkötorni, but real challenge was to find where the coordinates were taken. 
+Turns out it was https://www.retkikartta.fi/
+
+Flag: 62.804199, 27.628739

@@ -1,0 +1,57 @@
+[x] Opening connection to ctf4.savosec.fi on port 2222
+[x] Opening connection to ctf4.savosec.fi on port 2222: Trying 185.26.51.116
+[+] Opening connection to ctf4.savosec.fi on port 2222: Done
+Server: Hello, hacker! Are you ready to solve 15 math problems? You must be fast...
+Server: [1/15] Time limit: 2.00s. Solve: 24 + 14 + 17 = ?
+[*] Bot calculating: 24 + 14 + 17 = 55
+Server: ✅ Correct! Response time: 0.080s. Next round...
+Server: [2/15] Time limit: 1.88s. Solve: 23 - 42 - 12 = ?
+[*] Bot calculating: 23 - 42 - 12 = -31
+Server: ✅ Correct! Response time: 0.080s. Next round...
+Server: [3/15] Time limit: 1.76s. Solve: 19 - 45 - 27 = ?
+[*] Bot calculating: 19 - 45 - 27 = -53
+Server: ✅ Correct! Response time: 0.084s. Next round...
+Server: [4/15] Time limit: 1.64s. Solve: 32 - 38 * 12 = ?
+[*] Bot calculating: 32 - 38 * 12 = -424
+Server: ✅ Correct! Response time: 0.082s. Next round...
+Server: [5/15] Time limit: 1.52s. Solve: 42 * 46 + 42 = ?
+[*] Bot calculating: 42 * 46 + 42 = 1974
+Server: ✅ Correct! Response time: 0.080s. Next round...
+Server: [6/15] Time limit: 1.40s. Solve: 49 + 29 + 43 = ?
+[*] Bot calculating: 49 + 29 + 43 = 121
+Server: ✅ Correct! Response time: 0.082s. Next round...
+Server: [7/15] Time limit: 1.28s. Solve: 44 - 45 - 5 = ?
+[*] Bot calculating: 44 - 45 - 5 = -6
+Server: ✅ Correct! Response time: 0.080s. Next round...
+Server: [8/15] Time limit: 1.16s. Solve: 34 + 29 + 9 = ?
+[*] Bot calculating: 34 + 29 + 9 = 72
+Server: ✅ Correct! Response time: 0.080s. Next round...
+Server: [9/15] Time limit: 1.04s. Solve: 35 + 15 + 50 = ?
+[*] Bot calculating: 35 + 15 + 50 = 100
+Server: ✅ Correct! Response time: 0.077s. Next round...
+Server: [10/15] Time limit: 0.92s. Solve: 46 * 30 * 37 = ?
+[*] Bot calculating: 46 * 30 * 37 = 51060
+Server: ✅ Correct! Response time: 0.076s. Next round...
+Server: [11/15] Time limit: 0.80s. Solve: 20 * 4 - 23 = ?
+[*] Bot calculating: 20 * 4 - 23 = 57
+Server: ✅ Correct! Response time: 0.088s. Next round...
+Server: [12/15] Time limit: 0.68s. Solve: 25 - 32 + 23 = ?
+[*] Bot calculating: 25 - 32 + 23 = 16
+Server: ✅ Correct! Response time: 0.080s. Next round...
+Server: [13/15] Time limit: 0.56s. Solve: 27 * 38 + 29 = ?
+[*] Bot calculating: 27 * 38 + 29 = 1055
+Server: ✅ Correct! Response time: 0.078s. Next round...
+Server: [14/15] Time limit: 0.44s. Solve: 22 - 37 + 15 = ?
+[*] Bot calculating: 22 - 37 + 15 = 0
+Server: ✅ Correct! Response time: 0.080s. Next round...
+Server: [15/15] Time limit: 0.32s. Solve: 18 * 41 + 1 = ?
+[*] Bot calculating: 18 * 41 + 1 = 739
+Server: ✅ Correct! Response time: 0.088s. Next round...
+Server: *** CONGRATULATIONS! ***
+Server: You're so fast, for a human! Here is your flag:
+Server: SavoSec{Qu1ck_m@th!!}
+
+[*] Connection closed. Did we get the flag?
+[*] Closed connection to ctf4.savosec.fi port 2222
+
+Process finished with exit code 0

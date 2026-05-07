@@ -14,8 +14,10 @@ Can you see that tower in the distance? I would like to go there, but I found a 
 
 ---
 
-Flag's format: xx.xxxxxxxxxxxxxx, xx.xxxxxxxxxxxxxx 
+Flag's format: xx.xxxxxx, xx.xxxxxx 
 
-tried 62.88856081826739, 27.59459158267516 (copy from google maps business location)
+Neulamäen näköalatorni, but real challenge was to find where the coordinates were taken. 
+Turns out it was https://www.retkikartta.fi/
 
-62.888560, 27.594591
+Flag: 62.888357, 27.594498
+
